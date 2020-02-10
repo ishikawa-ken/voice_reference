@@ -1,4 +1,4 @@
-##!/bin/sh
+#!/bin/sh
 
 #学内proxyを経由するかどうか確認
 net=$(iwgetid -r)
@@ -13,7 +13,7 @@ else
 fi
 
 #仮想環境へ入る
-. ~/catkin_ws/src/basic_fanc/env/bin/activate
+. ~/catkin_ws/src/voice_reference/api/bin/activate
 
 #launchファイルを起動
 roslaunch gpsr srvserver.launch
