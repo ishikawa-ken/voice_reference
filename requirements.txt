@@ -132,7 +132,7 @@ rqt-tf-tree==0.6.0
 rqt-top==0.4.8
 rqt-topic==0.4.11
 rqt-web==0.4.8
-rsa==4.0
+rsa==4.7
 rviz==1.12.17
 sensor-msgs==1.12.7
 six==1.14.0
