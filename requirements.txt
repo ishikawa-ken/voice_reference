@@ -42,7 +42,7 @@ joint-state-publisher==1.12.14
 kobuki-dashboard==0.5.7
 laser-geometry==1.6.4
 message-filters==1.12.14
-nltk==3.4.5
+nltk==3.9
 openni2-launch==0.4.2
 pluginlib==1.11.3
 protobuf==3.18.3
