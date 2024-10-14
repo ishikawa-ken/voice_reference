@@ -147,7 +147,7 @@ tf2-py==0.5.20
 tf2-ros==0.5.20
 topic-tools==1.12.14
 unique-id==1.0.5
-urllib3==1.25.8
+urllib3==1.26.19
 world-canvas-server==0.2.0
 world-canvas-utils==0.2.0
 xacro==1.11.3
